@@ -1,6 +1,6 @@
 # SFETrack: Spatio-temporal MoE based Feature Enhancement for RGBT Tracking
 
-You can download the model and results from [here](https://pan.baidu.com/s/18ivR61BnGO5pjC4Fkvo6Fg?pwd=9ir3)
+You can download the model and results from [here](https://pan.baidu.com/s/1kPoMukf2JPYb4FIv2mYKIw?pwd=q264)
 
 ### Installation
 
