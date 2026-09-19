@@ -1,0 +1,44 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Local environments and editors
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Machine-specific paths
+lib/train/admin/local.py
+lib/test/evaluation/local.py
+
+# Training and evaluation outputs
+output/
+outputs/
+train_log/
+logs/
+tensorboard/
+wandb/
+runs/
+RGBT_workspace/results/
+metric_logs/
+route_logs/
+fusion_logs/
+eval_logs/
+
+# Model files are distributed separately
+/pretrained/
+/models/
+/checkpoints/
+*.pth
+*.pth.tar
+*.pt
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db

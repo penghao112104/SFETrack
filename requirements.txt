@@ -1,0 +1,11 @@
+easydict>=1.9
+jpeg4py>=0.1.4
+ninja>=1.11
+numpy>=1.23
+opencv-python>=4.7
+packaging>=21.0
+pandas>=1.5
+Pillow>=9.0
+PyYAML>=6.0
+tensorboard>=2.10
+timm==0.6.13
